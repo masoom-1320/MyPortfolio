@@ -115,7 +115,7 @@
       /* Hero Section */
       .hero {
         height: 100vh;
-        background: url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=2072&q=80")
+        background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdark-portfolio&psig=AOvVaw09fwj1stZV79-B5FwFBa8W&ust=1760620154425000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPi2s62jppADFQAAAAAdAAAAABAE")
           center/cover;
         display: flex;
         align-items: center;
@@ -492,3 +492,4 @@ a i.fab.fa-whatsapp:hover {
   color: #128c14; /* darker green */
   transform: scale(1.2);
 }
+
